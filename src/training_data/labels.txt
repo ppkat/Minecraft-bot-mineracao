@@ -1,0 +1,2 @@
+0 Lava
+1 Sem lava
