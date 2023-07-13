@@ -29,8 +29,8 @@ def locate_lava():
     imagem_normalizada = Image.fromarray(imagem_array_normalizada_uint8)
 
     # Salvar a imagem em um arquivo
-    caminho_arquivo = "imagem_normalizada.jpg"
-    imagem_normalizada.save(caminho_arquivo)
+    # caminho_arquivo = "imagem_normalizada.jpg"
+    # imagem_normalizada.save(caminho_arquivo)
 
     # print(predicao)
     # print(class_name[2:])
