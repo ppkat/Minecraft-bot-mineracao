@@ -19,7 +19,7 @@ Estas são as tecnologias utilizadas no projeto:
 2 - Execute o seguinte comando no seu terminal:
    
 ```sh
-git clone https://github.com/ppkat/Power-Runner.git
+git clone https://github.com/ppkat/Minecraft-bot-mineracao.git
 ```
 
 3 - Instale as dependências abrindo o a pasta do projeto e executando o comando:
